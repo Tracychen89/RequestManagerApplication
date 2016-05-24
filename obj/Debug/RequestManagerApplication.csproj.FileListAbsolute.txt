@@ -1,0 +1,6 @@
+c:\users\chenxin\documents\visual studio 2015\Projects\RequestManagerApplication\RequestManagerApplication\bin\Debug\RequestManagerApplication.exe.config
+c:\users\chenxin\documents\visual studio 2015\Projects\RequestManagerApplication\RequestManagerApplication\bin\Debug\RequestManagerApplication.exe
+c:\users\chenxin\documents\visual studio 2015\Projects\RequestManagerApplication\RequestManagerApplication\bin\Debug\RequestManagerApplication.pdb
+c:\users\chenxin\documents\visual studio 2015\Projects\RequestManagerApplication\RequestManagerApplication\obj\Debug\RequestManagerApplication.csprojResolveAssemblyReference.cache
+c:\users\chenxin\documents\visual studio 2015\Projects\RequestManagerApplication\RequestManagerApplication\obj\Debug\RequestManagerApplication.exe
+c:\users\chenxin\documents\visual studio 2015\Projects\RequestManagerApplication\RequestManagerApplication\obj\Debug\RequestManagerApplication.pdb

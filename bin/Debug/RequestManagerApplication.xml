@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Request>
+  <Name>xml</Name>
+  <User>jaden</User>
+  <Status>
+    <CurrentStatus>intiated</CurrentStatus>
+  </Status>
+  <style xmlns="urn:samples">hardcover</style>
+</Request>
