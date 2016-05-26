@@ -45,7 +45,7 @@ namespace RequestManagerApplication
 
             writer.Flush();
             writer.Close();
-            //checkPause();
+            
         }
 
         void Reader()
@@ -98,28 +98,14 @@ namespace RequestManagerApplication
                 
                 
             }
-            //checkPause();
+           
         }
-        //public bool pause { get; set; }
-
-        //public void checkPause()
-        //{
-        //    if (pause)
-        //    {
-        //        Console.Write("\n  Press any key to move to next demonstraton:");
-        //        Console.ReadKey();
-        //        Console.WriteLine();
-        //    }
-        //}
+       
         List<int> tests = new List<int>();
 
         public void processCommandLine(string[] args)
         {
-            //if (args.Length > 0)
-            //{
-            //    if (args[0] == "pause")
-            //        pause = true;
-            //}
+          
             foreach (string arg in args)
             {
                 try
