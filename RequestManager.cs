@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml;
 
 
-namespace RequestManagerApplication
+namespace Application
 {
     class Exec
     {

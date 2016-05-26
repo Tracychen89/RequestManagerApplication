@@ -16,7 +16,7 @@ namespace RequestManagerApplication
         static void Main(string[] args)
         {
 
-            Exec exec = new Exec();
+            Application.Exec exec = new Application.Exec();
             try
             {
 
